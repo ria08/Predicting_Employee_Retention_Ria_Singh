@@ -1,4 +1,4 @@
-Business Objective:
+
 # Predicting Employee Retention
 
 A mid-sized technology company wants to improve its understanding of employee retention to foster a loyal and committed workforce. While the organization has traditionally focused on addressing turnover, it recognises the value of proactively identifying employees likely to stay and understanding the factors contributing to their loyalty.
