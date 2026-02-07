@@ -9,7 +9,7 @@ In this assignment you’ll be building a logistic regression model to predict t
 ## Problem Statement
 A mid-sized technology company wants to move beyond reactive turnover management and proactively understand which employees are likely to stay. The goal is to identify key drivers of retention so HR can design programs that improve employee loyalty and workforce stability.
 
-Key Findings:
+
 ## Business Objective
 - Predict the likelihood of employee retention using demographic, job satisfaction, performance, and tenure-related data.
 - Translate model insights into retention strategies that improve employee experience and reduce churn risk.
